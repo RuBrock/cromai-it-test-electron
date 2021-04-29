@@ -1,5 +1,5 @@
-## Calculadora Teorema de Pitágoras
-Projeto de uma cálculadora do Teorema de Pitágoras, utilizando ReactJS com Typescript.
+## Calculadora Teorema de Pitágoras com Electron
+Projeto de uma cálculadora do Teorema de Pitágoras, utilizando ReactJS + Typescript + Electron para uso em Desktop.
 
 ### Instalação
 
@@ -14,8 +14,8 @@ yarn install
 ```
 
 ### Uso
-Execute o seguinte comando para lançar o projeto
+Execute o seguinte comando para lançar o projeto esperando que a tela de inicialização seja aberta
 
 ```bash
-npm start
+npm run dev
 ```
